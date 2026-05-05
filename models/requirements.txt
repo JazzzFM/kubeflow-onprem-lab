@@ -1,0 +1,6 @@
+scikit-learn>=1.5
+numpy>=1.26
+pandas>=2.2
+torch>=2.5
+torchvision>=0.20
+kfp>=2.7

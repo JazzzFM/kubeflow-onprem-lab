@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+
+# Data
+/tmp/mnist
+mnist/
+data/
+outputs/
+*.log
+*.pt
+*.pth
+*.ckpt
+
+# Editor
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Secrets
+*.pem
+*.key
+secrets.yaml
+.env
+.env.local
+
+# WSL/local
+*.tar
+*.tar.gz
