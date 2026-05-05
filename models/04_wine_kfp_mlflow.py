@@ -153,7 +153,7 @@ def wine_pipeline(url: str = WINE_URL, alpha: float = 0.5, l1_ratio: float = 0.5
     evaluate_and_report(
         model=train.outputs["model"],
         metrics=train.outputs["metrics"],
-        run_id=train.output,
+        run_id=train.outputs["Output"],
     )
 
 
