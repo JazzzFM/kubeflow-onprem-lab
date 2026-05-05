@@ -160,6 +160,7 @@ Detalle en [`docs/results-2026-05-05.md`](docs/results-2026-05-05.md).
 | [`04-pipeline-patterns.md`](docs/04-pipeline-patterns.md) | 5 patrones MLOps reales con código |
 | [`05-comparison.md`](docs/05-comparison.md) | Kubeflow vs SageMaker MLOps / Vertex AI / MLflow+Airflow |
 | [`06-glossary.md`](docs/06-glossary.md) | Términos clave del ecosistema |
+| [`07-airgapped-install.md`](docs/07-airgapped-install.md) | Patrón completo: Harbor + skopeo + Charmed Kubeflow / manifests / deployKF |
 | [`findings.md`](docs/findings.md) | Hallazgos: gcr.io deprecation, mount-rshared, CDI WSL |
 | [`results-2026-05-05.md`](docs/results-2026-05-05.md) | Resultados del lab con números reales |
 
